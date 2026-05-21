@@ -8,8 +8,8 @@ Select these two submissions for the Private leaderboard:
 
 | Version | File | Public score | Role |
 |---|---|---:|---|
-| v19 | `submissions/submission_v19_LINESEARCH_public_private_g138.csv` | 0.48881 | Best Public score; primary final submission |
-| v16 | `submissions/submission_v16_LINESEARCH_public_private_g092.csv` | 0.48926 | Safer hedge with lower anti-v6 extrapolation |
+| v19 | `submission_v19_LINESEARCH_public_private_g138.csv` | 0.48881 | Best Public score; primary final submission |
+| v16 | `submission_v16_LINESEARCH_public_private_g092.csv` | 0.48926 | Safer hedge with lower anti-v6 extrapolation |
 
 Do **not** select v6, v8, v13, or v20 for final Private selection.
 
